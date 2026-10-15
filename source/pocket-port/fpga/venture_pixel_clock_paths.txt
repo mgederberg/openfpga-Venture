@@ -1,4 +1,0 @@
------------------
-; Report Timing ;
------------------
-Nothing to report.

@@ -19,3 +19,14 @@
 **/__pycache__/
 
 **/apf/build_id.mif
+
+# Historical local development artifacts
+/source/pocket-port/fpga/c5_pin_model_dump.txt
+/source/pocket-port/fpga/core/core_constraints.sdc.scramble-backup
+/source/pocket-port/fpga/core/core_top.v.backup
+/source/pocket-port/fpga/core/mf_pllbase/mf_pllbase_0002.v.backup
+/source/pocket-port/fpga/venture_pixel_clock_paths.txt
+/source/pocket-port/fpga/venture_recovery_paths.txt
+/source/pocket-port/fpga/venture_setup_paths.txt
+/source/pocket-port/fpga/venture_timing_audit.tcl
+/source/pocket-port/fpga/venture_unconstrained_paths.txt
