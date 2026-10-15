@@ -1,0 +1,21 @@
+# Quartus generated outputs
+**/db/
+**/incremental_db/
+**/output_files/
+**/simulation/
+**/*.rpt
+**/*.log
+**/*.qdb
+**/*.sof
+**/*.pof
+**/*.smsg
+**/*.summary
+**/*.done
+**/*.jdi
+
+# Temporary files
+**/*.bak
+**/*~
+**/__pycache__/
+
+**/apf/build_id.mif
